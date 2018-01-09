@@ -1,0 +1,7 @@
+c:\users\rich\source\repos\EncodingTask\EncodingTask\bin\Debug\EncodingTask.exe.config
+c:\users\rich\source\repos\EncodingTask\EncodingTask\bin\Debug\EncodingTask.exe
+c:\users\rich\source\repos\EncodingTask\EncodingTask\bin\Debug\EncodingTask.pdb
+c:\users\rich\source\repos\EncodingTask\EncodingTask\obj\Debug\EncodingTask.csprojResolveAssemblyReference.cache
+c:\users\rich\source\repos\EncodingTask\EncodingTask\obj\Debug\EncodingTask.csproj.CoreCompileInputs.cache
+c:\users\rich\source\repos\EncodingTask\EncodingTask\obj\Debug\EncodingTask.exe
+c:\users\rich\source\repos\EncodingTask\EncodingTask\obj\Debug\EncodingTask.pdb
